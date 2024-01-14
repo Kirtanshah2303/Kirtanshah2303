@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kirtan Shah</h1>
 <!-- <h3 align="center">A passionate developer and learner from India</h3> -->
+
 - 🎓 Post Graduate Student at IIIT-Delhi
 - 👔 GATE 2023 Passout
 - 📫 How to reach me **contact.kirtanshah@gmail.com**
